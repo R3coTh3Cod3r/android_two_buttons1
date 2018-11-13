@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">android_two_buttons</string>
+    <string name="button_1">Button-1</string>
+    <string name="button_2">Button-2</string>
+    <string name="_0">0</string>
+    <!--<string name="_0" tools:ignore="DuplicateDefinition">0</string>-->
+</resources>
